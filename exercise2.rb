@@ -13,3 +13,6 @@ puts "#{x + y.to_s}"
 a = 45628
 b = 7839
 puts "Here is the output of #{a} divided by #{b} : #{a/b}.#{a%b}"
+
+#Exercise No.4
+puts (true && false) || (false && true) || !(false && false)
