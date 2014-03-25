@@ -9,3 +9,7 @@ y = 3
 puts "#{x} + #{y.to_s}"
 puts "#{x + y.to_s}"
 
+#Exercise No.3
+a = 45628
+b = 7839
+puts "Here is the output of #{a} divided by #{b} : #{a/b}.#{a%b}"
